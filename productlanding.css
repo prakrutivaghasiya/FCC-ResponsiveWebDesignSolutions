@@ -16,7 +16,9 @@ body::before{
     background-size: cover;
     background-position: center;
 }
-
+hr{
+    margin-top: 40px;
+}
 .container{
     box-sizing: border-box;
     display: block;
@@ -89,7 +91,9 @@ main{
     margin: 10px 30px;
     padding: 0 30px;
 }
-
+#features{
+    height: 750px;
+}
 h1{
     font-size: 1.89rem;
     text-align: center;
@@ -107,8 +111,8 @@ i{
     margin-right: 12px;
 }
 #video-play{
-    margin-top: 150px;
-    height: 570px;
+    margin-top: 100px;
+    height: 640px;
 }
 iframe{
     display: block;
@@ -120,7 +124,7 @@ iframe{
 }
 
 #about{
-    margin-top: 150px;
+    margin-top: 100px;
     height: 400px;
 }
 
