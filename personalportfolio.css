@@ -130,9 +130,9 @@ li:hover{
     font-size: 1.4rem;
 }
 .project-image {
-    height: calc(100% - 10rem);
-  width: 100%; 
-  max-width: 1fr;
+    height: 100%;
+    width: 100%; 
+    max-width: 1fr;
     object-fit: cover;
 }
 .project-title{
